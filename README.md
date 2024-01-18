@@ -18,7 +18,7 @@ Features
 
 ## Getting Started
 
-1. Clone the repository: `git clone [repository_url]`
+1. Clone the repository: `git clone github.com/Ananyapkumar/Chat `
 2. Open the `index.html` file in your preferred web browser.
 
 ## Usage
